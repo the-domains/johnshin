@@ -4,8 +4,15 @@
         <description><![CDATA[John Shin]]></description>
         <link>http://www.johnshin.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 Nov 2015 04:30:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Nov 2015 04:32:20 GMT</lastBuildDate>
         <atom:link href="http://www.johnshin.me/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wave]]></title>
+            <description><![CDATA[<article><h1>Wave</h1><p>Hi</p></article>]]></description>
+            <link>http://www.johnshin.me/wave/index.html</link>
+            <guid isPermaLink="false">ac3200c9-017f-4179-bd0d-6d871778cf8f</guid>
+            <pubDate>Sun, 15 Nov 2015 04:32:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>http://www.johnshin.me/72915e6d-2cb5-4983-84bd-d44d3e80d44e/index.html</link>
